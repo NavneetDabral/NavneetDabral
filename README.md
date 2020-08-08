@@ -1,15 +1,23 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+   React Native ✨
+   Storybook 📖
+   mobx-state-tree 🌲
+
+
 - 📫 How to reach me: ...
   ✈🚝🛴🏍🚣‍🏊‍ ----> 🧜‍♂️  
-  Naa u dont have to do all of that 😁, just ping me
-  [linkdin](http://localhost:3000)
+  No , u don't have to do 👆 things 😁 <br/> 
+  Just ping me 📃 <br/>
+  [linkdin](https://in.linkedin.com/in/navneet-dabral-859707117)
+  [twitter](https://twitter.com/DabralNavneet)
 <!--
 **NavneetDabral/NavneetDabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
