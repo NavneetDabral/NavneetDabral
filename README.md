@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 📫 How to reach me: ...
+  ✈🚝🛴🏍🚣‍🏊‍ ----> 🧜‍♂️  
+  Naa u dont have to do all of that 😁, just ping me
+  [linkdin](http://localhost:3000)
 <!--
 **NavneetDabral/NavneetDabral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
