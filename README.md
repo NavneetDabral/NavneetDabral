@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 - 🛠 I’m currently working on : <br/>
-   React Native ✨<br/>
+   React  ✨<br/>
    Storybook 📖 <br/>
-   mobx-state-tree 🌲 <br/>
+   GraphQl 🌲 <br/>
+   nestjs 🌲 <br/>
     <br/>
 - 📫 How to reach me: ... <br/>
   ✈🚝🛴🏍🚣‍🏊‍ ----> 🧜‍♂️ <br/>  
