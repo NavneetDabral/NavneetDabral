@@ -7,9 +7,7 @@
    nestjs 🌲 <br/>
     <br/>
 - 📫 How to reach me: ... <br/>
-  ✈🚝🛴🏍🚣‍🏊‍ ----> 🧜‍♂️ <br/>  
-  No , u don't have to do 👆 things 😁 <br/> 
-  I am just one click away 🕹<br/>
+
   [Linkedin](https://in.linkedin.com/in/navneet-dabral-859707117) <br/>
   [Twitter](https://twitter.com/DabralNavneet) <br/>
   [Codepen](https://codepen.io/Kerberos00)
