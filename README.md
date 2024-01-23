@@ -6,7 +6,7 @@
    GraphQl 🌲 <br/>
    nestjs 🌲 <br/>
     <br/>
-- 📫 How to reach me: ... <br/>
+- 📫 How to reach me:<br/>
 
   [Linkedin](https://in.linkedin.com/in/navneet-dabral-859707117) <br/>
   [Twitter](https://twitter.com/DabralNavneet) <br/>
